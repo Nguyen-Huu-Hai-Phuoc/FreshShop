@@ -1,0 +1,14 @@
+
+.manegers{
+    margin-left: 15px;
+    height: 800px;
+}
+.menu-manage>li>a{
+    color: black;
+}
+.menu-manage>li:hover{
+    background: rgb(252, 194, 135);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
